@@ -1,0 +1,17 @@
+{
+    "name": "raharison/locations",
+    "autoload": {
+        "psr-4": {
+            "Locations\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hasina7124",
+            "email": "raharison.m@zurcher.edu.mg"
+        }
+    ],
+    "require": {
+        "doctrine/dbal": "^4.0"
+    }
+}
